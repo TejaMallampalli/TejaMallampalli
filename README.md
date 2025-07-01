@@ -1,5 +1,17 @@
 # Hi, I'm TEJA SAI SRIRAM MALLAMPALLI 👋
-Results-driven professional with expertise in SQL, UNIX shell scripting, BASH, and data analysis, eager to leverage technical skills to optimize processes and drive innovation in a dynamic organization.
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering**, Dhanekula Institue of Engineering, JNTU Kakinada  
+  *Expected Graduation:* 2026  
+  *CGPA:* 6.8/10
+
+- **Intermediate**, Sri Chaitanya Jr College, BIEAP  
+  *Year of Completion:* 2022 
+  *Percentage:* 58%
+
+- **SSC**, Vijayasri Sunflower High School, SSC  
+  *Year of Completion:* 2020  
+  *GPA:* 9.8/10
 
 ## 🚀 Projects
 - Data analysis using Bash shell scripting.
