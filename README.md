@@ -1,11 +1,11 @@
 # Hi, I'm TEJA SAI SRIRAM MALLAMPALLI 👋
 ## 🎓 Education
 
-- **B.Tech in Computer Science and Engineering**, Dhanekula Institue of Engineering, JNTU Kakinada  
+- **B.Tech in Computer Science and Engineering**, Dhanekula Institute of Engineering and Technology, JNTU Kakinada  
   *Expected Graduation:* 2026  
   *CGPA:* 6.8/10
 
-- **Intermediate**, Sri Chaitanya Jr College, BIEAP  
+- **Intermediate**, Sri Chaitanya Junior College, BIEAP  
   *Year of Completion:* 2022 
   *Percentage:* 58%
 
