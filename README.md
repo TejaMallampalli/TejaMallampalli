@@ -3,7 +3,7 @@
 
 - **B.Tech in Computer Science and Engineering**, Dhanekula Institute of Engineering and Technology, JNTU Kakinada  
   *Expected Graduation:* 2026  
-  *CGPA:* 6.8/10
+  *CGPA:* 6.59/10
 
 - **Intermediate**, Sri Chaitanya Junior College, BIEAP  
   *Year of Completion:* 2022 
